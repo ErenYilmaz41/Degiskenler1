@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\argeuser\\Desktop\\Pratikler\\Degiskenler\\Degiskenler.csproj": {}
+    "C:\\Users\\argeuser\\Desktop\\Pratikler\\Degiskenler1\\Degiskenler1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\argeuser\\Desktop\\Pratikler\\Degiskenler\\Degiskenler.csproj": {
+    "C:\\Users\\argeuser\\Desktop\\Pratikler\\Degiskenler1\\Degiskenler1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\argeuser\\Desktop\\Pratikler\\Degiskenler\\Degiskenler.csproj",
-        "projectName": "Degiskenler",
-        "projectPath": "C:\\Users\\argeuser\\Desktop\\Pratikler\\Degiskenler\\Degiskenler.csproj",
+        "projectUniqueName": "C:\\Users\\argeuser\\Desktop\\Pratikler\\Degiskenler1\\Degiskenler1.csproj",
+        "projectName": "Degiskenler1",
+        "projectPath": "C:\\Users\\argeuser\\Desktop\\Pratikler\\Degiskenler1\\Degiskenler1.csproj",
         "packagesPath": "C:\\Users\\argeuser\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\argeuser\\Desktop\\Pratikler\\Degiskenler\\obj\\",
+        "outputPath": "C:\\Users\\argeuser\\Desktop\\Pratikler\\Degiskenler1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\argeuser\\AppData\\Roaming\\NuGet\\NuGet.Config"

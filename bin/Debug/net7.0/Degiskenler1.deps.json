@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v7.0": {
-      "Degiskenler/1.0.0": {
+      "Degiskenler1/1.0.0": {
         "runtime": {
-          "Degiskenler.dll": {}
+          "Degiskenler1.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Degiskenler/1.0.0": {
+    "Degiskenler1/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

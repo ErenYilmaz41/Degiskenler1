@@ -1,0 +1,15 @@
+C:\Users\argeuser\Desktop\Pratikler\Degiskenler1\bin\Debug\net7.0\Degiskenler1.exe
+C:\Users\argeuser\Desktop\Pratikler\Degiskenler1\bin\Debug\net7.0\Degiskenler1.deps.json
+C:\Users\argeuser\Desktop\Pratikler\Degiskenler1\bin\Debug\net7.0\Degiskenler1.runtimeconfig.json
+C:\Users\argeuser\Desktop\Pratikler\Degiskenler1\bin\Debug\net7.0\Degiskenler1.dll
+C:\Users\argeuser\Desktop\Pratikler\Degiskenler1\bin\Debug\net7.0\Degiskenler1.pdb
+C:\Users\argeuser\Desktop\Pratikler\Degiskenler1\obj\Debug\net7.0\Degiskenler1.csproj.AssemblyReference.cache
+C:\Users\argeuser\Desktop\Pratikler\Degiskenler1\obj\Debug\net7.0\Degiskenler1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\argeuser\Desktop\Pratikler\Degiskenler1\obj\Debug\net7.0\Degiskenler1.AssemblyInfoInputs.cache
+C:\Users\argeuser\Desktop\Pratikler\Degiskenler1\obj\Debug\net7.0\Degiskenler1.AssemblyInfo.cs
+C:\Users\argeuser\Desktop\Pratikler\Degiskenler1\obj\Debug\net7.0\Degiskenler1.csproj.CoreCompileInputs.cache
+C:\Users\argeuser\Desktop\Pratikler\Degiskenler1\obj\Debug\net7.0\Degiskenler1.dll
+C:\Users\argeuser\Desktop\Pratikler\Degiskenler1\obj\Debug\net7.0\refint\Degiskenler1.dll
+C:\Users\argeuser\Desktop\Pratikler\Degiskenler1\obj\Debug\net7.0\Degiskenler1.pdb
+C:\Users\argeuser\Desktop\Pratikler\Degiskenler1\obj\Debug\net7.0\Degiskenler1.genruntimeconfig.cache
+C:\Users\argeuser\Desktop\Pratikler\Degiskenler1\obj\Debug\net7.0\ref\Degiskenler1.dll
